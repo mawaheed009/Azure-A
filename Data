@@ -19,8 +19,7 @@
     <div id="box1">Look for grammatical errors: Phishing emails often contain grammatical errors. If you see any errors in an email, be suspicious and do not respond.</div>
     <div id="box2">Do not click on any links in the email: Phishing emails often contain links that lead to malicious websites. If you click on one of these links, you could download malware onto your computer.</div>
     
-    
-    <img src="pic1.png" width="400px">
+        <img src="pic1.png" width="400px">
 
     <div class ="row">
         <div class="col-sm-4"> 

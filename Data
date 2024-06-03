@@ -1,1 +1,32 @@
+<!DOCTYPE html>
+<html>
+     <head>
+        <title>My First Test Pogram</title>
+        <link rel="stylesheet" href="Style.css">
+        <link href="https://fonts.googleapis.com/css2?family=Mooli&family=Press+Start+2P&display=swap" rel="stylesheet">
+        </head>
+            <h1>Microsoft Azure Cloud</h1>
+                        
+            <p> To protect yourself and others: By reporting a phishing attack, you can help to protect yourself and others from falling victim to the attack. The sooner the attack is reported, the sooner it can be stopped and the less damage it can cause.To help improve cybersecurity defenses: By reporting a phishing attack, you help organizations improve their cybersecurity defenses.</p>
+            <p> Be suspicious of emails or text messages that ask for personal information: Phishing emails and text messages often ask for personal information, such as passwords, credit card numbers, or Social Security numbers. If you receive an email or text message that asks for this type of information, be suspicious and do not respond.</p>
+            <p> An organization can never have perfect security, but it can become resilient to security attacks. Like we are never perfectly immune to all health and safety risks in the physical world, the data and information systems we operate are also never 100 percent safe from all attacks all the time.</p>
+            <p> Check the sender's email address: Phishing emails often come from addresses that look like they are from legitimate organizations. However, if you hover over the sender's email address, you can often see the real address. If the email address does not look legitimate, do not respond.</p>
+            <p>What is Microsoft Azure cloud?
+                
+                The Azure cloud platform is more than 200 products and cloud services designed to help you bring new solutions to life—to solve today's challenges and create the future. Build, run, and manage applications across multiple clouds, on-premises, and at the edge, with the tools and frameworks of your choice.</p>
+            <img src="pic2.png" width="400px"> 
 
+    <div id="box1">Look for grammatical errors: Phishing emails often contain grammatical errors. If you see any errors in an email, be suspicious and do not respond.</div>
+    <div id="box2">Do not click on any links in the email: Phishing emails often contain links that lead to malicious websites. If you click on one of these links, you could download malware onto your computer.</div>
+    
+    
+    <img src="pic1.png" width="400px">
+
+    <div class ="row">
+        <div class="col-sm-4"> 
+        <img src="user.jpg" alt="" srcset="">
+        <article>
+        <h4>Mohammed Abdul Waheed</h4>
+        <p class="para">Founder</p>
+        </body>
+        </html>
